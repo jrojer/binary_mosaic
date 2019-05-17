@@ -1,1 +1,2 @@
-# binary_mosaic
+# random_array[i | j]
+![mosaic](mosaic.png)
